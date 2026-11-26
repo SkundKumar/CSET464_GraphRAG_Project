@@ -1,0 +1,51 @@
+Question,Ground Truth,FAISS Retrieval,FAISS F1,Neo4j Retrieval,Neo4j F1
+Where does the founder of Les Films Du Losange work at?,Cahiers du cinéma,False,0.06896551724137931,True,0.2222222222222222
+Are director of film Susanna Whipped Cream and director of film Le Salamandre both from the same country?,yes,False,0.0,False,0.0
+Who is Wisigard's father-in-law?,Theuderic I,False,0.08333333333333334,True,0.08333333333333334
+Which country the director of film Hotel By The Hour is from?,Austria,False,0.0,True,0.1
+"Who lived longer, Friedrich Paschen or Ernst Bessey?",Friedrich Paschen,False,0.14814814814814814,True,0.2222222222222222
+"Which film has the director born later, The Fighting Demon or Blood Of The Losers?",Blood Of The Losers,False,0.12903225806451613,True,0.13793103448275865
+Who is Ieuan Ab Owain Glyndŵr's paternal grandfather?,Gruffudd Fychan II,False,0.0,True,0.3
+"Which film has the director died later, The Life And Loves Of Tschaikovsky or Dokuz Dağın Efesi?",Dokuz Dağın Efesi,False,0.24000000000000002,True,0.2857142857142857
+What is the date of birth of Frederick Of Liege's father?,1027,False,0.0,True,0.0
+"Where did the director of film Nalini By Day, Nancy By Night graduate from?",Mount Holyoke College,False,0.0,True,0.25
+"Which film has the director born later, Brutti Di Notte or Bir Türk'E Gönül Verdim?",Bir Türk'E Gönül Verdim,False,0.0,True,0.0
+Who is Rostislav I Of Kiev's paternal grandfather?,Vladimir II Monomakh,False,0.0,True,0.0
+"Which film has the director born later, Life Hits or It'S In The Air?",Life Hits,False,0.14814814814814814,True,0.0
+"Which film whose director is younger, A Night'S Adventure or Insaciable?",Insaciable,False,0.09523809523809523,True,0.0
+What is the place of birth of the composer of film Men With Brooms?,Calgary,False,0.0,True,0.07407407407407407
+"Which film has the director born later, Battle Of Memories or The Wedding Of Lilli Marlene?",Battle Of Memories,False,0.07142857142857142,True,0.21428571428571425
+Where was the director of film Aylwin (Film) born?,"Weston-super-Mare, Somerset",False,0.0,True,0.16666666666666669
+"Which film has the director who was born first, Hanuman Patal Vijay or Young And Dangerous: The Prequel?",Hanuman Patal Vijay,False,0.14285714285714285,True,0.0
+Were Gotthilf Heinrich Ernst Muhlenberg and Todd Williams of the same nationality?,yes,False,0.0,False,0.0
+What is the date of death of Peter Dale Scott's mother?,28 November 1993,False,0.0,True,0.0
+Where did the founder of Ford Australia die?,Dearborn,False,0.0,True,0.07692307692307693
+"Which film has the director who is older than the other, Rolling In Money or A Fine, Windy Day? ",Rolling In Money,False,0.2222222222222222,True,0.06896551724137931
+"Which film has the director born later, Best Of The Best 3: No Turning Back or Ven Mi Corazón Te Llama?",Best Of The Best 3: No Turning Back,False,0.43750000000000006,True,0.24242424242424243
+"Which film has the director who died later, The Death Kiss or Her Luck In London?",Her Luck In London,False,0.2857142857142857,True,0.25806451612903225
+"When did Joanna Of Aragon, Countess Of Foix's mother die?",23 October 1378,False,0.0,True,0.25
+"Which film whose director is younger, Hell To Pay (2014 Film) or Darwin'S Nightmare?",Darwin'S Nightmare,False,0.0,True,0.0
+"Which film has the director who was born later, Así En El Cielo Como En La Tierra or Buck And The Preacher?",Así En El Cielo Como En La Tierra,False,0.3125,True,0.0
+"What is the date of death of Philibert I, Duke Of Savoy's mother?",23 August 1478,False,0.0,True,0.0
+Which country Count Of St. Germain's father is from?,Hungarian,False,0.0,True,0.0
+Where was the director of film He'S A Cockeyed Wonder born?,London,False,0.0,True,0.07999999999999999
+"Which film has the director died first, Köpekler Adası or Twisted Mistress?",Twisted Mistress,False,0.15384615384615385,True,0.0
+Which award the composer of film Howrah Bridge (Film) earned?,Filmfare Award,False,0.07142857142857144,True,0.15384615384615385
+"Which film came out earlier, Der Wixxer or The Butterfly Room?",Der Wixxer,False,0.16,True,0.1904761904761905
+"Where was the husband of Wilhelmine Of Prussia, Margravine Of Brandenburg-Bayreuth born?",Weferlingen,False,0.0,True,0.0909090909090909
+Where did the director of film Things Behind The Sun study?,"UCLA School of Theater, Film and Television",False,0.0625,True,0.42424242424242425
+"Are the movies About A Wife, A Dream And Another... and The Doolins Of Oklahoma, from the same country?",no,False,0.0,True,0.07999999999999999
+"Which film was released first, My Friend Pinto or Vindhyarani?",Vindhyarani,False,0.0,True,0.1
+Was Ausaf Ali or Steven Perry born first?,Ausaf Ali,False,0.14814814814814814,True,0.14285714285714288
+What is the place of birth of Aurelio De Laurentiis's father?,Torre Annunziata,False,0.0,True,0.23529411764705882
+Where was the founder of magazine Amazing Stories born?,Luxembourgish,False,0.0,True,0.0
+Where did Crow Foot's father die?,United States,False,0.0,True,0.17391304347826084
+Who is Amalie Adlerberg's stepfather?,"Karl Alexander, 5th Prince of Thurn and Taxis",False,0.0,True,0.07692307692307691
+"Which film whose director is younger, Outlaw King or Gunman'S Walk?",Outlaw King,False,0.17391304347826084,True,0.16
+"Which film was released more recently, Scandal At The Girls' School or One Dangerous Night?",Scandal At The Girls' School,False,0.33333333333333337,True,0.26666666666666666
+Which country Ronald Dewolf's father is from?,American,False,0.0,True,0.08333333333333333
+Where was the place of death of the director of film Romulus And The Sabines?,Le Plessis-Bouchard,False,0.0,True,0.1904761904761905
+What is the place of birth of the director of film The Return Of Swamp Thing?,New York,False,0.0,True,0.12903225806451613
+Who is the father of the director of film The Thousand Faces Of Dunjia?,Yuen Siu-tien,False,0.0,True,0.18181818181818182
+"Which film has the director who is older, Aardram or Land And Freedom?",Land And Freedom,False,0.25,True,0.21428571428571425
+"Which film came out first, Stella'S Oorlog or Sampathige Savaal?",Sampathige Savaal,False,0.08333333333333334,True,0.21052631578947367

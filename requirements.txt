@@ -1,0 +1,13 @@
+bert-score
+datasets
+evaluate
+faiss-cpu
+matplotlib
+neo4j
+numpy
+pandas
+python-docx
+sentence-transformers
+torch
+transformers
+bitsandbytes
